@@ -1,2 +1,3 @@
-run.bat
-boot.bin
+bootloader.bin
+kernel.bin
+os_image.bin
